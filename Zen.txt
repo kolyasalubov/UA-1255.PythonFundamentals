@@ -1,3 +1,4 @@
 Zen of Python
 
 2.Explicit is better than implicit.
+16.Although never is often better than *right* now.
