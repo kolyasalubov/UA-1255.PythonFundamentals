@@ -2,3 +2,4 @@ Zen of Python
 
 2.Explicit is better than implicit.
 16.Although never is often better than *right* now.
+50.There should be one-- and preferably only one --obvious way to do it.
