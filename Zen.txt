@@ -4,6 +4,7 @@ Zen of Python
 8.Special cases aren't special enough to break the rules.
 15.Now is better than never.
 16.Although never is often better than *right* now.
+10.Errors should never pass silently.
 20.Beautiful is better than ugly.
 26.Readability counts.
 44.Readability counts.
