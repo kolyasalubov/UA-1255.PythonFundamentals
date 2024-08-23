@@ -7,5 +7,6 @@ Zen of Python
 10.Errors should never pass silently.
 20.Beautiful is better than ugly.
 26.Readability counts.
+34.Now is better than never.
 44.Readability counts.
 50.There should be one-- and preferably only one --obvious way to do it.
