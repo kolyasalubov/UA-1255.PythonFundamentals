@@ -1,7 +1,7 @@
 Zen of Python
 
 2.Explicit is better than implicit.
-
+8.Special cases aren't special enough to break the rules.
 15.Now is better than never.
 16.Although never is often better than *right* now.
 26.Readability counts.
