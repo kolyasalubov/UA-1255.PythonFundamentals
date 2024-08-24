@@ -2,10 +2,10 @@ Zen of Python
 
 2.Explicit is better than implicit.
 8.Special cases aren't special enough to break the rules.
+14.Although that way may not be obvious at first unless you're Dutch.
 15.Now is better than never.
 16.Although never is often better than *right* now.
 10.Errors should never pass silently.
-14.Although that way may not be obvious at first unless you're Dutch.
 20.Beautiful is better than ugly.
 26.Readability counts.
 34.Now is better than never.
