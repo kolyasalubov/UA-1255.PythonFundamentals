@@ -11,6 +11,7 @@ Zen of Python
 20.Beautiful is better than ugly.
 22.Simple is better than complex.
 26.Readability counts.
+28.Although practicality beats purity.
 34.Now is better than never.
 36.If the implementation is hard to explain, it's a bad idea.
 38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
