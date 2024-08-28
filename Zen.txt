@@ -9,6 +9,7 @@ Zen of Python
 15.Now is better than never.
 16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
+19.Namespaces are one honking great idea -- let's do more of those!
 20.Beautiful is better than ugly.
 23.Complex is better than complicated.
 26.Readability counts.
@@ -17,6 +18,10 @@ Zen of Python
 36.If the implementation is hard to explain, it's a bad idea.
 38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
 39.Explicit is better than implicit.
+<<<<<<< HEAD
+=======
+40.Simple is better than complex.
+>>>>>>> main
 41.Complex is better than complicated.
 44.Readability counts.
 47.Errors should never pass silently.
