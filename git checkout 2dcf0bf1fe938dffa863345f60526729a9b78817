@@ -1,0 +1,321 @@
+[33mcommit 43f20b6bc2674c3ffdadc4453c3002a21052fda1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mPismakArchip[m[33m, [m[1;31morigin/PismakArchip[m[33m)[m
+Author: Archip <gamest200606@gmail.com>
+Date:   Tue Aug 27 16:01:02 2024 +0300
+
+    коміт
+
+[33mcommit 2dcf0bf1fe938dffa863345f60526729a9b78817[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/TanchakYaroslav[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Yaroslav <yaroslav.tanchak@gmail.com>
+Date:   Tue Aug 27 15:25:43 2024 +0300
+
+    add 41-th string of Zen and add visual task
+
+[33mcommit e46cab9f7feb7bc07e1a3be97052168b32509d7d[m
+Author: Yaroslav <yaroslav.tanchak@gmail.com>
+Date:   Tue Aug 27 15:06:18 2024 +0300
+
+    add 17-th string of Zen
+
+[33mcommit 21f99b99662868abbda5b0767ca23cb65dfaee8f[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Mon Aug 26 19:15:57 2024 +0300
+
+    added Lesson 3
+
+[33mcommit 842224f5f2eeab3b94ee7a62a259bafa4f4bc00d[m
+Merge: 190e657 c8340bf
+Author: OdyPiix <98780660+OdyPiix@users.noreply.github.com>
+Date:   Sun Aug 25 21:47:31 2024 +0300
+
+    Merge pull request #1 from kolyasalubov/MakiewskiOleg
+    
+    Makiewski Oleg
+
+[33mcommit c8340bfb57580dd00a45f043b14905d2a41152e9[m[33m ([m[1;31morigin/MakiewskiOleg[m[33m)[m
+Author: OdyPiix <pixart.comua@gmail.com>
+Date:   Sun Aug 25 21:44:54 2024 +0300
+
+    Add 47 line and HW screen
+
+[33mcommit 364d0617121fdfd64fe61aa4ba29306b59f51b9b[m
+Author: OdyPiix <pixart.comua@gmail.com>
+Date:   Sun Aug 25 21:24:36 2024 +0300
+
+    add 23
+
+[33mcommit 190e657e0971ef10a8de42668a1558e299d604c9[m
+Author: OdyPiix <pixart.comua@gmail.com>
+Date:   Sun Aug 25 21:22:50 2024 +0300
+
+    add Zen rule 23
+
+[33mcommit e47b0d28f43ec16ca78ec9b1c77867498d5cd71c[m[33m ([m[1;31morigin/KavfVolodymyr[m[33m)[m
+Author: Volodymyr Kavf <volodiakavf3134@gmail.com>
+Date:   Sun Aug 25 20:59:55 2024 +0300
+
+    added HW2
+
+[33mcommit deed9ab8081edd57188cec734bcff1b022edb116[m
+Author: Volodymyr Kavf <volodiakavf3134@gmail.com>
+Date:   Sun Aug 25 20:52:36 2024 +0300
+
+    added 28-th lines
+
+[33mcommit 978ae6aaefca47100c0fd6db37646e50d55e3679[m
+Author: OdyPiix <pixart.comua@gmail.com>
+Date:   Sun Aug 25 20:13:54 2024 +0300
+
+    Add 22
+
+[33mcommit 79ccfa8361a39ee4a05f648f5620b6c121f0a59d[m
+Merge: 29e19a8 a80f46e
+Author: Volodymyr Kavf <volodiakavf3134@gmail.com>
+Date:   Sun Aug 25 20:04:46 2024 +0300
+
+    Merge branch 'main' of https://github.com/kolyasalubov/UA-1255.PythonFundamentals
+
+[33mcommit 29e19a89e6f9adeb37878974c17319017c07ce15[m
+Author: Volodymyr Kavf <volodiakavf3134@gmail.com>
+Date:   Sun Aug 25 19:28:31 2024 +0300
+
+    added 4-th lines
+
+[33mcommit a80f46e2a53ce1b76c9e6db5111a8e197c81cd16[m[33m ([m[1;31morigin/RubaiOleh[m[33m)[m
+Author: Oleg Rubai <olegtac48@gmail.com>
+Date:   Sun Aug 25 19:14:10 2024 +0300
+
+    Додав HW2 та змінив Zen.txt
+
+[33mcommit c4ab1bd43e61ad1de2a6fea6d77696410236dbd5[m[33m ([m[1;31morigin/OleksandrPanchuk[m[33m)[m
+Author: Oleksandr Panchuk <alekssen2008@gmail.com>
+Date:   Sat Aug 24 14:32:40 2024 +0300
+
+    Add a screenshot from Learn Git Branching
+
+[33mcommit 1f87a16c613a684fa41dcaeacc2b01bbbba3e5bf[m
+Author: Oleksandr Panchuk <alekssen2008@gmail.com>
+Date:   Sat Aug 24 14:30:29 2024 +0300
+
+    Added 12 line and 36 line in Zen.txt
+
+[33mcommit 26b88bb771c0c8c8a4d57b9b5bcf77fd760cfa7f[m[33m ([m[1;31morigin/VladPiddubnyi[m[33m)[m
+Author: Piddubnyi Vladislav <remsii.xx@gmail.com>
+Date:   Sat Aug 24 13:33:21 2024 +0300
+
+    uppdated folder
+
+[33mcommit 71fb039d5632512eff3a2a1d2d7889b8a274f526[m
+Author: Piddubnyi Vladislav <remsii.xx@gmail.com>
+Date:   Sat Aug 24 13:22:42 2024 +0300
+
+    added 38-th lines
+
+[33mcommit c8d27e08e1da3d41e0b0ba4fead43227416d099b[m
+Author: Piddubnyi Vladislav <remsii.xx@gmail.com>
+Date:   Sat Aug 24 11:46:46 2024 +0300
+
+    fixed
+
+[33mcommit 077cbd3ab93717578c607f11d101b79b9f99bf51[m
+Author: Piddubnyi Vladislav <remsii.xx@gmail.com>
+Date:   Sat Aug 24 11:27:37 2024 +0300
+
+    add line
+
+[33mcommit 85106d1b3878c29422de2054180af9ec3faf1913[m[33m ([m[1;31morigin/NyzkoshapkaOleksandr[m[33m)[m
+Author: SkayKvit <nizkoshapka.ua@gmail.com>
+Date:   Fri Aug 23 22:11:19 2024 +0300
+
+    Added 34th line
+
+[33mcommit d46dbb493dd2de5aee98f1d2c5e84352b8c2769e[m
+Author: SkayKvit <nizkoshapka.ua@gmail.com>
+Date:   Fri Aug 23 22:09:46 2024 +0300
+
+    Added photo from learngitbranching
+
+[33mcommit e2e5b4a1dcfbfc1d1f00509dacd7d2786036af84[m
+Author: SkayKvit <nizkoshapka.ua@gmail.com>
+Date:   Fri Aug 23 22:06:42 2024 +0300
+
+    Added 10th line
+
+[33mcommit 61699f550c02b342c90e27edb2f02607e7d5d53f[m[33m ([m[1;31morigin/VladykaYuriy[m[33m)[m
+Author: Yura Vladyka <uravladyka24@gmail.com>
+Date:   Fri Aug 23 17:42:50 2024 +0300
+
+    added a new folder with images
+
+[33mcommit 91e65fccf057e165f4c664bd6b2844002a3a0cb0[m
+Author: Yura Vladyka <uravladyka24@gmail.com>
+Date:   Fri Aug 23 17:30:44 2024 +0300
+
+    added 44-th lines
+
+[33mcommit 01a709c7da02725bec768be8ae0f56fd66e8aee2[m
+Author: Yura Vladyka <uravladyka24@gmail.com>
+Date:   Fri Aug 23 16:57:21 2024 +0300
+
+    added line 20
+
+[33mcommit 1e27dda4babed1f1bda1ce0c715c38b1655f966e[m
+Author: Mykhailo <prihodkomihail4@gmail.com>
+Date:   Fri Aug 23 16:53:29 2024 +0300
+
+    added H2_PrihodkoMyhhailo
+
+[33mcommit 7f3f92a81504e9d2c127021abbffcbc85d6f249d[m
+Author: Mykhailo <prihodkomihail4@gmail.com>
+Date:   Fri Aug 23 16:21:57 2024 +0300
+
+    added 8-th lines
+
+[33mcommit de6eb4c26cee16b98bc98e7425de55848ff80b9b[m
+Merge: e04ca2a c18e4d7
+Author: Mykhailo <prihodkomihail4@gmail.com>
+Date:   Fri Aug 23 16:12:54 2024 +0300
+
+    added file Zen.txt
+
+[33mcommit e04ca2a26f6534f1651cfae05745e36ca01afbf8[m
+Author: Mykhailo <prihodkomihail4@gmail.com>
+Date:   Fri Aug 23 16:01:49 2024 +0300
+
+    added file Zen.txt
+
+[33mcommit c18e4d7de6bbe043006a1a6e9da9836443204712[m
+Author: Archip <gamest200606@gmail.com>
+Date:   Wed Aug 21 19:38:45 2024 +0300
+
+    HW2
+
+[33mcommit 9d055f50e6c006642d94c89c00cee105111b8d57[m
+Author: Archip <gamest200606@gmail.com>
+Date:   Wed Aug 21 19:33:04 2024 +0300
+
+    added 15-th lines
+
+[33mcommit c9a8b4807d5ea090f1bff96837218e45e5df05cd[m
+Author: Archip <gamest200606@gmail.com>
+Date:   Wed Aug 21 18:49:09 2024 +0300
+
+    Письмак Архип 2
+
+[33mcommit ef8379babee1e4d12bf88cc367611a0407f489fb[m
+Author: Archip <gamest200606@gmail.com>
+Date:   Wed Aug 21 18:03:29 2024 +0300
+
+    Письмак Архип
+
+[33mcommit 7eb2de80d0d27505251caae56eb23e32338e4109[m
+Merge: 81d0d4d 4569dde
+Author: Anton Kachanovski <powernoizy@gmail.com>
+Date:   Wed Aug 14 19:29:40 2024 +0300
+
+    added 26-th line
+
+[33mcommit 4569dde1f0aeee530e61577a09e900946946298d[m
+Merge: c62c792 16eb5ab
+Author: Anton Kachanovski <powernoizy@gmail.com>
+Date:   Wed Aug 14 19:26:43 2024 +0300
+
+    added 26-th line
+
+[33mcommit c62c792d50367abf8e04b0ecd3c695b01cb53576[m
+Author: Anton Kachanovski <powernoizy@gmail.com>
+Date:   Wed Aug 14 19:23:40 2024 +0300
+
+    added HW2 screenshot
+
+[33mcommit 81d0d4d1edf4b2772cc750779f6ca15f40dbac95[m
+Merge: 49f5e50 0985ea8
+Author: Anton Kachanovski <powernoizy@gmail.com>
+Date:   Wed Aug 14 19:16:13 2024 +0300
+
+    added 26-th line
+
+[33mcommit 16eb5abc78cf98097806ad2adef39d3fb6d9503f[m[33m ([m[1;31morigin/KoliasaLiubov[m[33m)[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 19:14:09 2024 +0300
+
+    updated folder
+
+[33mcommit 49f5e50ade7b4275837c9660ab582e1b347a4861[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 19:08:44 2024 +0300
+
+    added folder HW2
+
+[33mcommit 0985ea8e9e5b181d21285c26baef51c7633faba8[m[33m ([m[1;31morigin/KachanovskiAnton[m[33m)[m
+Author: Anton Kachanovski <powernoizy@gmail.com>
+Date:   Wed Aug 14 19:08:32 2024 +0300
+
+    added 26-th line
+
+[33mcommit 59979ee2b2af3afcb5c5bd8a88f86c04a3ed72b6[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 19:06:17 2024 +0300
+
+    added 50-th lines
+
+[33mcommit d40cd403676974593c21512778e28ff8d8b91870[m
+Merge: 716eee3 6f49579
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 19:01:45 2024 +0300
+
+    Merge branch 'main' of https://github.com/kolyasalubov/UA-1255.PythonFundamentals
+
+[33mcommit 716eee320a834ea251ce58d7a9aa76543a7c7556[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 19:01:39 2024 +0300
+
+    added 1.txt
+
+[33mcommit 6f4957980769fccd66753caed0bc4fa240b0d189[m
+Author: gran46 <olegtac48@gmail.com>
+Date:   Wed Aug 14 18:49:32 2024 +0300
+
+    Update Zen.txt
+
+[33mcommit 6ece85be546bae3feb3f722d15368f30e4e437f7[m
+Author: Anton Kachanovski <powernoizy@gmail.com>
+Date:   Wed Aug 14 18:46:25 2024 +0300
+
+    added second line to Zen.txt
+
+[33mcommit 8be1bc5e5c80cdffb0ad3d15cf327b77ef08cd80[m
+Author: kolyasalubov <36229492+kolyasalubov@users.noreply.github.com>
+Date:   Wed Aug 14 18:38:08 2024 +0300
+
+    Update .gitignore
+
+[33mcommit d952e04181f1b4f04a2e913b9cc99c17ce2d29b0[m
+Merge: b63ec81 add3761
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 18:37:08 2024 +0300
+
+    resolve conflict
+
+[33mcommit add3761c93d7db3da58601f76830f70881992244[m
+Author: kolyasalubov <36229492+kolyasalubov@users.noreply.github.com>
+Date:   Wed Aug 14 18:36:24 2024 +0300
+
+    Update .gitignore
+
+[33mcommit b63ec81e63508de0c85f1ee0c5c078ead359dffb[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 18:35:38 2024 +0300
+
+    updated file Zen.txt
+
+[33mcommit ba4e7c12c3c6d20cc73da9e62cbe08c87ea9dd85[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Aug 14 18:29:50 2024 +0300
+
+    added file Zen.txt
+
+[33mcommit 109782d44972e253760eba64328e5890e39f4940[m
+Author: kolyasalubov <36229492+kolyasalubov@users.noreply.github.com>
+Date:   Wed Aug 14 18:23:49 2024 +0300
+
+    Initial commit

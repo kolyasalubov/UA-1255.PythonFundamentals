@@ -3,11 +3,13 @@ Zen of Python
 2.Explicit is better than implicit.
 4.Complex is better than complicated.
 8.Special cases aren't special enough to break the rules.
+10.Errors should never pass silently.
 12.In the face of ambiguity, refuse the temptation to guess.
 14.Although that way may not be obvious at first unless you're Dutch.
 15.Now is better than never.
 16.Although never is often better than *right* now.
-10.Errors should never pass silently.
+17.If the implementation is hard to explain, it's a bad idea.
+19.Namespaces are one honking great idea -- let's do more of those!
 20.Beautiful is better than ugly.
 23.Complex is better than complicated.
 26.Readability counts.
@@ -15,6 +17,9 @@ Zen of Python
 34.Now is better than never.
 36.If the implementation is hard to explain, it's a bad idea.
 38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
+39.Explicit is better than implicit.
+40.Simple is better than complex.
+41.Complex is better than complicated.
 44.Readability counts.
 47.Errors should never pass silently.
 50.There should be one-- and preferably only one --obvious way to do it.
