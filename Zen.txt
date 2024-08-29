@@ -20,6 +20,7 @@ Zen of Python
 39.Explicit is better than implicit.
 40.Simple is better than complex.
 41.Complex is better than complicated.
+43.Sparse is better than dense.
 44.Readability counts.
 47.Errors should never pass silently.
 50.There should be one-- and preferably only one --obvious way to do it.
