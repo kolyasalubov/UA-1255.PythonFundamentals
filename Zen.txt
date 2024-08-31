@@ -19,7 +19,10 @@ Zen of Python
 36.If the implementation is hard to explain, it's a bad idea.
 38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
 39.Explicit is better than implicit.
+<<<<<<< HEAD
+=======
 40.Simple is better than complex.
+>>>>>>> main
 41.Complex is better than complicated.
 43.Sparse is better than dense.
 44.Readability counts.
