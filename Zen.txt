@@ -25,3 +25,4 @@ Zen of Python
 44.Readability counts.
 47.Errors should never pass silently.
 50.There should be one-- and preferably only one --obvious way to do it.
+25.Sparse is better than dense.
