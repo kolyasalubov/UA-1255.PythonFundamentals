@@ -79,7 +79,31 @@ print (zen.replace('i','&'))
 #2. A four-digit natural number is specified:
 #- find the product of the digits of this number
 
- 
-a = 1234
+number = 1234
+number_1 = number // 1000
+number_2 = (number // 100) % 10
+number_3 = (number // 10) % 10
+number_4 = number % 10
+Multiplication_numbers = number_1 * number_2 * number_3 * number_4
+print(Multiplication_numbers)
+# or :
+number = 1234
+result_product = eval('*'.join(str(number)))
+print(result_product)
 
-b = a % 10
+#- write the number in reverse order
+number = str(1234)
+print(int(number[::-1]))
+
+#- in ascending order, you need to sort the numbers included in the given number
+number = 4321
+number_list = list(str(number))
+number_list.sort()
+print(int("".join(number_list)))
+
+#3. Interchange the values of two variables without using the third variable.
+variables_1 = 123
+variables_2 = 456
+variables_1,variables_2 = variables_2,variables_1
+print(f"{variables_1 = } and {variables_2 = }")
+
