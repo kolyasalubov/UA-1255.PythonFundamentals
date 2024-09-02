@@ -1,16 +1,9 @@
-number = int(input("введіть 4-ьох значне натуральне число"))
+number = input("Enter a four digit number")
 
-digits = [int(digit) for digit in str(number)]
+print(f'The product of numbers is: {int(number[0]) * int(number[1]) * int(number[2]) * int(number[3])}')
 
-product = 1
-for digit in digits:
-  product *= digit
+print(f'Reversed number: {number[::-1]}')
 
-reversed_number = int(str(number)[::-1])
+print(f'Sorted list: {list("".join(sorted(number)))}\n')
 
-sorted_digits = sorted(digits)
-sorted_number = int("".join(map(str, sorted_digits)))
 
-print("Добуток цифр:", product)
-print("Перевернуте число:", reversed_number)
-print("Цифри в порядку зростання:", sorted_number) 
