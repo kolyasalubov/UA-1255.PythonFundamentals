@@ -106,4 +106,3 @@ variables_1 = 123
 variables_2 = 456
 variables_1,variables_2 = variables_2,variables_1
 print(f"{variables_1 = } and {variables_2 = }")
-
