@@ -11,6 +11,6 @@ for number in range(1,11):
     else:
         number_other.append(number)
         
-print("Parne :",even_numbers)
-print("Unparne :",odd_numbers)
+print("Even :",even_numbers)
+print("Odd :",odd_numbers)
 print("Other :",number_other)
