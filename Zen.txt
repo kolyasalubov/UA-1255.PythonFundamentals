@@ -1,6 +1,7 @@
 Zen of Python
 1.Beautiful is better than ugly.
 2.Explicit is better than implicit.
+3.Simple is better than complex.
 4.Complex is better than complicated.
 8.Special cases aren't special enough to break the rules.
 10.Errors should never pass silently.
@@ -13,6 +14,7 @@ Zen of Python
 20.Beautiful is better than ugly.
 23.Complex is better than complicated.
 26.Readability counts.
+27.Special cases aren't special enough to break the rules.
 28.Although practicality beats purity.
 34.Now is better than never.
 32.There should be one-- and preferably only one --obvious way to do it.
