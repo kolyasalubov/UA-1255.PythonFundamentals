@@ -5,5 +5,3 @@ print(f'The product of numbers is: {int(number[0]) * int(number[1]) * int(number
 print(f'Reversed number: {number[::-1]}')
 
 print(f'Sorted list: {list("".join(sorted(number)))}\n')
-
-
