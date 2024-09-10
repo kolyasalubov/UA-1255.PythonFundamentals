@@ -1,0 +1,9 @@
+temp_celsius = float(input("Enter the temperature in C°:"))
+temp_fahrenheit = temp_celsius * 9/5 + 32
+
+
+if temp_celsius < -273.15:
+  print("Temperature is invalid because it is below absolute zero")
+
+else:
+  print(f"The temperature in Fahrengeit is {temp_fahrenheit}:")
