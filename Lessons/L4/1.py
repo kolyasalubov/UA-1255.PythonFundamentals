@@ -40,11 +40,11 @@
 #     print('you are not old')
 
 
-temperature = float(input('What is the temperature? '))
+# temperature = float(input('What is the temperature? '))
 
 # if temperature > 30:
 #     print("You need to wear shorts")
 # else:
 #     print("You need to wear pants")
 
-print("You need to wear shorts") if temperature > 30 else print("You need to wear pants")
+# print("You need to wear shorts") if temperature > 30 else print("You need to wear pants")
