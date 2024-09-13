@@ -12,6 +12,7 @@ print( even_list)
 print(odd_list)
 print(other_list)
 
+#list comprehension
 even_list = [item for item in range (11) if item % 2 == 0]
 odd_list = [item for item in range (11)  if item % 3 == 0]
 other_list = [item for item in range(11) if item % 2 != 0 and item % 3 != 0 ]
