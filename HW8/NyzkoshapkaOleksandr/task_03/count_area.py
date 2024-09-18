@@ -1,4 +1,6 @@
-
+from math import (pow,
+                  pi,
+                  )
 def Calculates_area_rectangle(a, b):
     print ("Area of Rectangle: ", a * b)
 

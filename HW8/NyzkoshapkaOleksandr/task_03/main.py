@@ -1,6 +1,4 @@
-from math import (pow,
-                  pi,
-                  )
+
 from count_area import (Calculates_area_rectangle,
                         Calculates_area_circle,
                         Calculates_area_triangle)
