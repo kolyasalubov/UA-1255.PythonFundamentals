@@ -24,4 +24,4 @@ elif choice == 2:
     Calculates_area_triangle(a,h)
 elif choice == 3:
     r = int(input("Input radius: "))
-    Calculates_area_triangle(r)
+    Calculates_area_circle(r)
