@@ -1,5 +1,7 @@
 class Employee ():
-    
+    '''
+    Class for showing name, salary, amount of employees
+    '''
     amount_of_employees = 0
     
     def __init__(self, employee_name, employee_salary):
@@ -25,3 +27,10 @@ employee_3 = Employee("Viktor", 10000)
 employee_1.show_amount_of_employees()
 employee_1.count_of_employee()
 employee_1.get_information_about_employee()
+
+
+print(Employee.__base__)
+print(Employee.__dict__)
+print(Employee.__name__)
+print(Employee.__module__)
+print(Employee.__doc__)
